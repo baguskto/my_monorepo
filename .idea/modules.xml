@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/apps/bumblebee/melos_bumblebee.iml" filepath="$PROJECT_DIR$/apps/bumblebee/melos_bumblebee.iml" />
       <module fileurl="file://$PROJECT_DIR$/apps/optimus/melos_optimus.iml" filepath="$PROJECT_DIR$/apps/optimus/melos_optimus.iml" />
-      <module fileurl="file://$PROJECT_DIR$/melos_counter.iml" filepath="$PROJECT_DIR$/melos_counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_my_monorepo.iml" filepath="$PROJECT_DIR$/melos_my_monorepo.iml" />
     </modules>
   </component>
 </project>
